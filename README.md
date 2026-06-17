@@ -40,7 +40,10 @@ Projeto desenvolvido afim de facilitar o download de programas e ferramentas com
 ## 📦 Como rodar o projeto
 
 ```bash
+# Clonar o repositório
 git clone https://github.com/mcdcwb/projeto-initial-programs.git
+
+# Entrar na pasta e rodar projeto
 cd projeto-initial-programs
 npm install
 npm run dev
